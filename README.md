@@ -8,7 +8,7 @@ The sections below provide descriptions of Mathematica worksheets, MATLAB script
 
 ## Mathematica
 
-### SliderDisp.nb
+### [SliderDisp.nb](https://github.com/MoreCoffee12/Reciprocating_Compressor/blob/master/Mathematica%20Reference%20Documents/SliderDisp.nb)
 
 This worksheet derives the governing equations of motions for the piston (slider) displacement.
 
