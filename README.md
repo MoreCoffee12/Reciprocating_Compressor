@@ -12,11 +12,13 @@ The sections below provide descriptions of Mathematica worksheets, MATLAB script
 
 This worksheet derives the governing equations of motion for the piston (slider) displacement.
 
-# MATLAB
+## MATLAB
 
-## PlotCrankAngle.m
+### PlotCrankAngle.m
 
 This function plots reciprocating machinery data in the crank angle domain with the first sample at top dead center (TDC).
+
+\<\< render and insert example crank angle domain plot here \>\>
 
 # Kinematics
 
